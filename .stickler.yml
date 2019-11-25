@@ -8,3 +8,5 @@ files:
     - "config/*"
     - "Guardfile"
     - "Rakefile"
+    - "bower_components/*"
+    - "node_modules/*"
